@@ -1,3 +1,4 @@
+window.addEventListener('scroll', callback);
 window.addEventListener('resize', callback);
 function callback () {
     let redesSociais = document.querySelectorAll('.menu-footer a');
